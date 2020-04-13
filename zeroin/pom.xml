@@ -10,6 +10,7 @@
 	</parent>
 	<groupId>com.frontin</groupId>
 	<artifactId>zeroin</artifactId>
+	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>zeroin</name>
 	<description>zeroin  is a project for...</description>
